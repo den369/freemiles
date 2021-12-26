@@ -4,6 +4,6 @@ public class Main {
         int price = 14000;
         int bonus = 20;
         int frmiles = price / bonus;
-        System.out.println("Вы заработали " + frmiles + " бесплатных миль");
+        System.out.println("Вы заработали " + frmiles + " бонусных миль");
     }
 }
